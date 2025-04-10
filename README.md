@@ -51,6 +51,6 @@ Project Requirements:
 
 ## ETL Architecture 
 
-[https://github.com/Jessiah13/ETL-Pipeline-for-Crime-Data/blob/main/docs/images/High%20Level%20ETL%20Architecture.png](https://raw.githubusercontent.com/Jessiah13/ETL-Pipeline-for-Crime-Data/refs/heads/main/docs/images/High%20Level%20ETL%20Architecture.png)
+![Alt text](https://raw.githubusercontent.com/Jessiah13/ETL-Pipeline-for-Crime-Data/refs/heads/main/docs/images/High%20Level%20ETL%20Architecture.png)
 
 
