@@ -40,7 +40,7 @@ Project Requirements:
 - Data Sources: Import data from website using webscraping with python.
 - Data Quality: Cleanse and resolve data quality issues prior to analysis.
 - Integration: Cobime Automation with Python and Airflow to bring the data into a single, user-friendly data model designed for analytical queries.
-- Scope: focuse on latest data only; Historistion of data is not required.
+- Scope: focuse on latest data only; Historization of data is not required.
 - Documentation: Provide clear documendation of the ETL process and Data model to support both business stakeholders and analytics teams.
 
 ------- 
